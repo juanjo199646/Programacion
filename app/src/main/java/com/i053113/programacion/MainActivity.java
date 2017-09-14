@@ -76,6 +76,7 @@ public class MainActivity extends AppCompatActivity {
         for(Persons e: listpersons){
             txtListUsers.append("nombre" + e.getFirst_name()+ "apellido" + e.getLast_name()+"\n\n\n");
         }
+        //juan
 
 
 
