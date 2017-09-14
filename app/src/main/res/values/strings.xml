@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Programacion</string>
+    <string name="str_et_1">Nombre</string>
+    <string name="str_et_2">Apellidos</string>
+    <string name="str_btn_1">Crear Usuario</string>
+    <string name="str_btn_2">Listar Usuarios</string>
+</resources>
